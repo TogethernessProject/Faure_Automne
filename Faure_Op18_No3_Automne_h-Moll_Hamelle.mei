@@ -762,6 +762,7 @@
                      <tie xml:id="t1fcrany" startid="#n1lpafjt" endid="#n138ko02"/>
                      <tie xml:id="t1gvglen" startid="#n1k46rdt" endid="#nzdlqn7"/>
                   </measure>
+                  <pb xml:id="p1scz5dd" />
                   <measure xml:id="m4igw9z" facs="#zone_01JPWG8253W85A7NG3NMQ5NSXY" n="7">
                      <staff xml:id="slrlru0" n="1">
                         <layer xml:id="l16beoha" n="1">
@@ -879,7 +880,6 @@
                      <tie xml:id="t1qe0j1z" startid="#nrjsyxq" endid="#ni27p3h"/>
                      <tie xml:id="t8rnpdq" startid="#nsvza5d" endid="#nx6thni"/>
                   </measure>
-                  <pb xml:id="p1scz5dd" />
                   <measure xml:id="m1f0u4vy" facs="#zone_01JPWG8254QCYQ2MVWK7W4RN9R" n="8">
                      <staff xml:id="s1wil5c9" n="1">
                         <layer xml:id="l1ifw3du" n="1">
@@ -1498,7 +1498,6 @@
                      <tie xml:id="t1e2sn6d" startid="#n1yhhqcj" endid="#nbb8jv"/>
                      <tie xml:id="t1qax90m" startid="#n1l4bg59" endid="#ng5l1kc"/>
                   </measure>
-                  <pb xml:id="paswwyn" />
                   <measure xml:id="mjdsvm8" facs="#zone_01JPWG8255M0RWMDJ2VJR3FZ7M" n="13">
                      <staff xml:id="si09n61" n="1">
                         <layer xml:id="l1tc6in8" n="1">
@@ -1716,6 +1715,7 @@
                      <hairpin xml:id="h1m40o8z" staff="2" tstamp="4" tstamp2="0m+13" form="dim" place="below" vgrp="670"/>
                      <pedal xml:id="pdzgkf5" staff="3" tstamp="1" dir="down" place="below" vgrp="122"/>
                   </measure>
+                  <pb xml:id="paswwyn" />
                   <measure xml:id="mte6hcc" facs="#zone_01JPWG8256FFYZ3YZ26GK8YFPC" n="15">
                      <staff xml:id="sn7zkfm" n="1">
                         <layer xml:id="l10a8hxb" n="1">
@@ -1803,7 +1803,6 @@
                      <slur xml:id="scwbydd" startid="#n1g6rehd" endid="#n1fuaj9r" curvedir="above"/>
                      <pedal xml:id="p1hxrnvj" staff="3" tstamp="1" dir="down" place="below" vgrp="84"/>
                   </measure>
-                  <sb xml:id="s1cs0j7s" />
                   <measure xml:id="m1fnshb" facs="#zone_01JPWG8256DR3WC2P05JTXKRY8" n="16">
                      <staff xml:id="s1b5ot0m" n="1">
                         <layer xml:id="ljysigb" n="1">
@@ -2350,7 +2349,7 @@
                      <tie xml:id="t15jwup9" startid="#njlw4yl" endid="#nnxqqeq"/>
                      <slur xml:id="s167bxe0" startid="#n17irvjf" endid="#n1xhbaxi" curvedir="above"/>
                   </measure>
-                  <pb xml:id="p46h1as" />
+                  <sb xml:id="s46h1as" />
                   <measure xml:id="m129hxsy" facs="#zone_01JPWG8257M7FPT0JHEV50YK2N" n="21">
                      <staff xml:id="s1b26dhs" n="1">
                         <layer xml:id="lvqkdem" n="1">
@@ -3045,7 +3044,7 @@
                      <tie xml:id="t18fi0y1" startid="#n66i49l" endid="#n1lo88az"/>
                      <dynam xml:id="d1lpjpmj" place="below" staff="2" tstamp="1" val="60" vgrp="645">p</dynam>
                   </measure>
-                  <sb xml:id="s1sxfkdu" />
+                  <pb xml:id="p1sxfkdu" />
                   <measure xml:id="mmrltwc" facs="#zone_01JPWG825A8Q608G962G8KG6QQ" n="27">
                      <staff xml:id="s1fh80hg" n="1">
                         <layer xml:id="l17l7pwd" n="1">
@@ -3400,7 +3399,7 @@
                      </staff>
                      <tie xml:id="t1uydulw" startid="#niinsx7" endid="#nvb3u6p"/>
                   </measure>
-                  <pb xml:id="p1xx1zko" />
+                  <sb xml:id="s1xx1zko" />
                   <measure xml:id="m1tccwic" facs="#zone_01JPWG825DNXRB732DJA02297N" n="30">
                      <staff xml:id="s1qjl0qs" n="1">
                         <layer xml:id="l12dhrsu" n="1">
