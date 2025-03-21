@@ -20,7 +20,7 @@
     <music>
         <facsimile>
             <surface xml:id="surface_01JPWG82507JSAWRQ3ACR6ECN0" n="1" ulx="0" uly="0" lrx="2399" lry="2999">
-                <graphic xml:id="graphic_01JPWG8251GR9GABFW79BFPR4X" target="IMSLP24112-PMLP54694-Fauré_-_3_Songs,_Op._18-10.png" width="2400" height="3000"/>
+                <graphic xml:id="graphic_01JPWG8251GR9GABFW79BFPR4X" target="IMSLP24112-PMLP54694-Faure_-_3_Songs_Op._18-10.png" width="2400" height="3000"/>
                 <zone xml:id="zone_01JPWG8251H7NQZZYYPYYNHARW" type="measure" ulx="464" uly="495" lrx="1425" lry="1204"/>
                 <zone xml:id="zone_01JPWG8251GNY4M4PE20S77A7D" type="measure" ulx="1364" uly="521" lrx="2175" lry="1221"/>
                 <zone xml:id="zone_01JPWG8252BYJMX6W8RHS3AFZX" type="measure" ulx="213" uly="1273" lrx="1298" lry="2023"/>
@@ -29,7 +29,7 @@
                 <zone xml:id="zone_01JPWG8253MMK9G5218BP9PZRQ" type="measure" ulx="1233" uly="2071" lrx="2176" lry="2804"/>
             </surface>
             <surface xml:id="surface_01JPWG82532F0VJM4R69SZQC8G" n="2" ulx="0" uly="0" lrx="2399" lry="2999">
-                <graphic xml:id="graphic_01JPWG8253YE8PXKGEJC91XAP3" target="IMSLP24112-PMLP54694-Fauré_-_3_Songs,_Op._18-11.png" width="2400" height="3000"/>
+                <graphic xml:id="graphic_01JPWG8253YE8PXKGEJC91XAP3" target="IMSLP24112-PMLP54694-Faure_-_3_Songs_Op._18-11.png" width="2400" height="3000"/>
                 <zone xml:id="zone_01JPWG8253W85A7NG3NMQ5NSXY" type="measure" ulx="244" uly="93" lrx="1314" lry="792"/>
                 <zone xml:id="zone_01JPWG8254QCYQ2MVWK7W4RN9R" type="measure" ulx="1253" uly="109" lrx="2162" lry="751"/>
                 <zone xml:id="zone_01JPWG8254925KQ5C4FTJRY6KE" type="measure" ulx="252" uly="787" lrx="1279" lry="1449"/>
@@ -40,7 +40,7 @@
                 <zone xml:id="zone_01JPWG8255P3C15Q3DCVFSXV56" type="measure" ulx="1255" uly="2158" lrx="2153" lry="2855"/>
             </surface>
             <surface xml:id="surface_01JPWG8255C2VT3HGEKC57XWJ8" n="3" ulx="0" uly="0" lrx="2399" lry="2999">
-                <graphic xml:id="graphic_01JPWG8255CSB4Q3XVFAAWJXFZ" target="IMSLP24112-PMLP54694-Fauré_-_3_Songs,_Op._18-12.png" width="2400" height="3000"/>
+                <graphic xml:id="graphic_01JPWG8255CSB4Q3XVFAAWJXFZ" target="IMSLP24112-PMLP54694-Faure_-_3_Songs_Op._18-12.png" width="2400" height="3000"/>
                 <zone xml:id="zone_01JPWG8256FFYZ3YZ26GK8YFPC" type="measure" ulx="257" uly="121" lrx="1005" lry="792"/>
                 <zone xml:id="zone_01JPWG8256DR3WC2P05JTXKRY8" type="measure" ulx="948" uly="121" lrx="1568" lry="785"/>
                 <zone xml:id="zone_01JPWG8256KCKHBKYVJZM4GVY3" type="measure" ulx="1517" uly="117" lrx="2149" lry="782"/>
@@ -55,7 +55,7 @@
                 <zone xml:id="zone_01JPWG8259PTBCWYSV46YZYBQ9" type="measure" ulx="1576" uly="2122" lrx="2135" lry="2787"/>
             </surface>
             <surface xml:id="surface_01JPWG8259KJ53V3RK5YERSQ93" n="4" ulx="0" uly="0" lrx="2399" lry="2999">
-                <graphic xml:id="graphic_01JPWG825AVQKH9RA0R2BE1K30" target="IMSLP24112-PMLP54694-Fauré_-_3_Songs,_Op._18-13.png" width="2400" height="3000"/>
+                <graphic xml:id="graphic_01JPWG825AVQKH9RA0R2BE1K30" target="IMSLP24112-PMLP54694-Faure_-_3_Songs_Op._18-13.png" width="2400" height="3000"/>
                 <zone xml:id="zone_01JPWG825A8Q608G962G8KG6QQ" type="measure" ulx="264" uly="114" lrx="1040" lry="790"/>
                 <zone xml:id="zone_01JPWG825A6TXZ24NPRNJQ5QWZ" type="measure" ulx="989" uly="103" lrx="1594" lry="789"/>
                 <zone xml:id="zone_01JPWG825B6NY1MPXEV5DEKX9A" type="measure" ulx="1545" uly="101" lrx="2145" lry="779"/>
