@@ -23,6 +23,10 @@
                <name xml:id="nr5xo53">Verovio</name>
                <p xml:id="pou0w4v">Transcoded from MusicXML</p>
             </application>
+            <application xml:id="aw0wsvd1" enddate="2025-03-22T08:19:27" startdate="2025-03-22T08:17:55" version="1.2.3">
+               <name xml:id="nabkhoa">mei-friend</name>
+               <p xml:id="pltbwdm2">First edit by mei-friend 1.2.3, 18 March 2025.</p>
+            </application>
          </appInfo>
       </encodingDesc>
    </meiHead>
@@ -85,13 +89,13 @@
             <score xml:id="s1fd8ftg">
                <scoreDef xml:id="sm6iew7">
                   <pgHead xml:id="p1370kko">
-                     <rend xml:id="r1s7mvl6" halign="center" valign="top" fontstyle="italic" fontweight="bold">Automne</rend>
+                     <rend xml:id="r1s7wvl6" halign="center" valign="top" fontsize="x-large" fontstyle="normal" >Fauré</rend>
+                     <rend xml:id="r1s7mvl6" halign="center" valign="top" fontsize="x-large" fontstyle="normal" >Automne</rend>
                   </pgHead>
                   <pgFoot xml:id="pkgoozk">
                   </pgFoot>
                   <staffGrp xml:id="s73guhd">
                      <staffDef xml:id="P1" n="1" lines="5" ppq="2">
-                        <label xml:id="l1cyj62u">Voix</label>
                         <instrDef xml:id="i16vybv3" midi.channel="0" midi.instrnum="57" midi.volume="79%" />
                         <clef xml:id="c16201qm" shape="G" line="2" />
                         <keySig xml:id="kl5nwxg" mode="minor" sig="2s" />
@@ -99,7 +103,6 @@
                      </staffDef>
                      <staffGrp xml:id="P2" bar.thru="true">
                         <grpSym xml:id="gwlh8as" symbol="brace" />
-                        <label xml:id="l1almoz3">Piano</label>
                         <instrDef xml:id="i1xfsyw1" midi.channel="1" midi.instrnum="0" midi.volume="79%" />
                         <staffDef xml:id="slc7axf" n="2" lines="5" ppq="2">
                            <clef xml:id="cpggow3" shape="F" line="4" />
@@ -196,15 +199,13 @@
                         </layer>
                      </staff>
                      <dir xml:id="d1elduat" place="above" staff="1" tstamp="1" vgrp="2010">
-                        <rend xml:id="r1ss4scw" fontweight="bold">Andante moderato</rend>
+                        <rend xml:id="r1ss4scw" fontsize="large" fontweight="normal" fontstyle="normal">Andante moderato. 
+                           <rend xml:id="rf3f28" fontsize="40%" glyph.auth="smufl"> = 66.</rend>
+                        </rend>
                      </dir>
-                     <dir xml:id="ddxetb0" place="above" staff="1" tstamp="1" vgrp="2091">(Armand Silvestre)</dir>
-                     <tempo xml:id="t1ohwvif" place="above" staff="1" tstamp="5" xml:lang="it" midi.bpm="99" mm="66" mm.unit="4" mm.dots="1">
-                        <rend xml:id="r1wlmlvg" fontweight="bold"> [ –c. 72]</rend>
-                        <rend xml:id="rf3f28" glyph.auth="smufl"></rend> = 66</tempo>
                      <dynam xml:id="d1e2hdp0" place="below" staff="2" tstamp="1" val="60" vgrp="525">p</dynam>
                      <slur xml:id="s3xy7pd" startid="#nzwlo2f" endid="#n1463pqv" curvedir="above"/>
-                     <hairpin xml:id="h8ia8h0" staff="2" tstamp="11" tstamp2="0m+13" form="cres" place="below" vgrp="680"/>
+                     <hairpin xml:id="h8ia8h0" form="cres" place="below" staff="2" tstamp="11" tstamp2="0m+13" vgrp="1"/>
                   </measure>
                   <measure xml:id="mj614et" facs="#zone_01JPWG8251GNY4M4PE20S77A7D" n="2">
                      <staff xml:id="sq86ycm" n="1">
@@ -311,10 +312,9 @@
                            </chord>
                         </layer>
                      </staff>
-                     <dir xml:id="dkwqwlg" place="above" staff="1" tstamp="1" vgrp="2039">Op.18 No. 3</dir>
-                     <dynam xml:id="dgwtlwh" place="below" staff="2" tstamp="1" val="80" vgrp="505">mf</dynam>
+                     <dynam xml:id="dgwtlwh" place="below" staff="2" tstamp="1" val="80" vgrp="1">mf</dynam>
                      <slur xml:id="s1o7lb9" startid="#n7fvwjz" endid="#nodji0" curvedir="above"/>
-                     <hairpin xml:id="h1v9ocxy" staff="2" tstamp="3" tstamp2="0m+7" form="dim" place="below" vgrp="730"/>
+                     <hairpin xml:id="h1v9ocxy" form="dim" place="below" staff="2" tstamp="3" tstamp2="0m+7" vgrp="1"/>
                      <hairpin xml:id="h1s1jod5" staff="2" tstamp="11" tstamp2="0m+13" form="cres" place="below" vgrp="730"/>
                      <tie xml:id="t3lms4a" startid="#ns6cfpn" endid="#nzfayv2"/>
                      <tie xml:id="t16rop8e" startid="#ntjwonj" endid="#n1azhvyf"/>
@@ -429,10 +429,10 @@
                      </staff>
                      <dynam xml:id="d7f3vlm" place="above" staff="1" tstamp="12" val="100" vgrp="2015">f</dynam>
                      <dir xml:id="dyzqqvi" place="above" staff="2" tstamp="1" vgrp="2300">
-                        <rend xml:id="r16mtnhi" fontstyle="italic" fontweight="bold">sempre legato</rend>
+                        <rend xml:id="r16mtnhi" fontstyle="italic" fontweight="normal">sempre legato</rend>
                      </dir>
-                     <dynam xml:id="d3pw8re" place="below" staff="2" tstamp="1" val="80" vgrp="475">mf</dynam>
-                     <hairpin xml:id="h1uq6j7b" staff="2" tstamp="3" tstamp2="0m+6" form="dim" place="below" vgrp="730"/>
+                     <dynam xml:id="d3pw8re" place="below" staff="2" tstamp="1" val="80" vgrp="1">mf</dynam>
+                     <hairpin xml:id="h1uq6j7b" form="dim" place="below" staff="2" tstamp="3" tstamp2="0m+6" vgrp="1"/>
                      <tie xml:id="t23ksey" startid="#n1fcmod8" endid="#neam3h9"/>
                      <tie xml:id="t1a5b0xr" startid="#ntfb2ut" endid="#n1ycmnn8"/>
                   </measure>
