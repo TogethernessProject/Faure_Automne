@@ -23,7 +23,7 @@
                <name xml:id="nr5xo53">Verovio</name>
                <p xml:id="pou0w4v">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="aw0wsvd1" enddate="2025-03-25T17:38:28" startdate="2025-03-22T08:17:55" version="1.2.3">
+            <application xml:id="aw0wsvd1" enddate="2025-03-25T17:45:00" startdate="2025-03-22T08:17:55" version="1.2.3">
                <name xml:id="nabkhoa">mei-friend</name>
                <p xml:id="pltbwdm2">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -2462,10 +2462,9 @@
                      <dynam xml:id="d6w2efe" place="above" staff="1" tstamp="2" vgrp="2010">
                         <rend xml:id="r1m4raa3" fontstyle="italic" fontweight="normal">cresc. molto</rend>
                      </dynam>
-                     <dynam xml:id="d1rd6006" place="below" staff="2" tstamp="6" vgrp="425">
-                        <rend xml:id="rwrrelo" fontstyle="italic" fontweight="bold">cresc.</rend>
-                     </dynam>
+                     <dynam xml:id="d1rd6006" place="between" staff="2 3" tstamp="6" vgrp="425">cresc.</dynam>
                      <tie xml:id="twjwdi2" endid="#n1o9p49a" startid="#nkwxobj"/>
+                     <breath xml:id="bv2rm4p1" staff="1" tstamp="9.5"/>
                   </measure>
                   <measure xml:id="mzavuvw" facs="#zone_01JPWG8257N4AQ2MGZEQJ42RHN" n="22">
                      <staff xml:id="s1lfdlzz" n="1">
@@ -2680,7 +2679,6 @@
                                  <note xml:id="n1c6nvdv" oct="4" pname="f"/>
                               </chord>
                            </beam>
-                           <clef xml:id="c1y5u7az" line="2" shape="G"/>
                         </layer>
                      </staff>
                      <staff xml:id="selixf5" n="3">
@@ -2709,7 +2707,7 @@
                      </staff>
                      <dynam xml:id="d1ve39lv" place="above" staff="1" tstamp="1" val="100" vgrp="2045">f</dynam>
                      <tie xml:id="t23l0lu" endid="#n1fpq3ed" startid="#n4ablf6"/>
-                     <dynam xml:id="d1nm25k1" place="above" staff="3" tstamp="1" val="100" vgrp="2115">f</dynam>
+                     <dynam xml:id="d1nm25k1" place="between" staff="2 3" tstamp="1" val="100" vgrp="2115">f</dynam>
                   </measure>
                   <sb xml:id="s1vwz8er"/>
                   <measure xml:id="m1xva1bo" facs="#zone_01JPWG82583XV05W2NSW4YK9T7" n="24">
@@ -2827,9 +2825,7 @@
                            <note xml:id="n1v1wqe8" dur="8" dur.ppq="1" oct="2" pname="e" stem.dir="up"/>
                         </layer>
                      </staff>
-                     <dir xml:id="dilgq03" place="above" staff="1" tstamp="1" vgrp="2070">
-                        <rend xml:id="r1h7n2fy" fontstyle="italic" fontweight="bold">sempre </rend>
-                     </dir>
+                     <dir xml:id="dilgq03" place="above" staff="1" tstamp="1" vgrp="2070">sempre</dir>
                      <tie xml:id="tdwsrn8" endid="#nidvzp6" startid="#naet84w"/>
                      <tie xml:id="tgv2sex" endid="#n1apkayu" startid="#nidvzp6"/>
                      <tie xml:id="tozz7yb" endid="#nzac9ud" startid="#n7tfyui"/>
@@ -2840,8 +2836,10 @@
                      <staff xml:id="s795ijd" n="1">
                         <layer xml:id="ljrc67k" n="1">
                            <note xml:id="n1apkayu" dots="1" dur="4" dur.ppq="3" oct="4" pname="g" stem.dir="up"/>
-                           <rest xml:id="r1d93r5n" dots="1" dur="4" dur.ppq="3"/>
-                           <rest xml:id="r1tl84vb" dots="1" dur="4" dur.ppq="3"/>
+                           <rest xml:id="r1d93r5n" dur="4" dur.ppq="3"/>
+                           <rest xml:id="r1d93r6n" dur="8" dur.ppq="3"/>
+                           <rest xml:id="r1d93r7n" dur="4" dur.ppq="3"/>
+                           <rest xml:id="r1d93r8n" dur="8" dur.ppq="3"/>
                            <rest xml:id="r198zhdq" dur="8" dur.ppq="1"/>
                            <rest xml:id="r1fx4xye" dur="8" dur.ppq="1"/>
                            <note xml:id="ne3ubyi" accid.ges="s" dur="8" dur.ppq="1" oct="4" pname="f" stem.dir="up">
@@ -2913,7 +2911,6 @@
                                  <note xml:id="n1o0sq7w" accid.ges="s" oct="3" pname="a"/>
                               </chord>
                            </beam>
-                           <clef xml:id="c1co1786" line="4" shape="F"/>
                         </layer>
                      </staff>
                      <staff xml:id="s33qobt" n="3">
@@ -2927,11 +2924,10 @@
                         </layer>
                      </staff>
                      <dynam xml:id="d1mz2jxe" place="above" staff="1" tstamp="12" val="60" vgrp="2015">p</dynam>
-                     <dynam xml:id="d1wwr9af" place="below" staff="2" tstamp="1" vgrp="875">
-                        <rend xml:id="r6g94x0" fontstyle="italic" fontweight="bold">dimin.</rend>
+                     <dynam xml:id="d1wwr9af" place="between" staff="2 3" tstamp="1" vgrp="1">dimin.
                      </dynam>
                      <slur xml:id="s1smqdam" curvedir="below" endid="#n13bu4t2" startid="#n1uowj84"/>
-                     <hairpin xml:id="hd3c5bk" form="dim" place="above" staff="3" tstamp="7" tstamp2="0m+13" vgrp="2160"/>
+                     <hairpin xml:id="hd3c5bk" form="dim" place="between" staff="2 3" tstamp="7" tstamp2="0m+13" vgrp="1"/>
                   </measure>
                   <measure xml:id="mhax0cy" facs="#zone_01JPWG8259PTBCWYSV46YZYBQ9" n="26">
                      <staff xml:id="s150x5n8" n="1">
@@ -3038,7 +3034,7 @@
                         </layer>
                      </staff>
                      <tie xml:id="t18fi0y1" endid="#n1lo88az" startid="#n66i49l"/>
-                     <dynam xml:id="d1lpjpmj" place="below" staff="2" tstamp="1" val="60" vgrp="645">p</dynam>
+                     <dynam xml:id="d1lpjpmj" place="between" staff="2 3" tstamp="1" val="60" vgrp="1">p</dynam>
                   </measure>
                   <pb xml:id="p1sxfkdu"/>
                   <measure xml:id="mmrltwc" facs="#zone_01JPWG825A8Q608G962G8KG6QQ" n="27">
@@ -3168,7 +3164,8 @@
                      <staff xml:id="svcg7iy" n="1">
                         <layer xml:id="l1q5luhl" n="1">
                            <note xml:id="nutdqrh" accid.ges="s" dots="1" dur="2" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
-                           <rest xml:id="r2fdk2o" dots="1" dur="4" dur.ppq="3"/>
+                           <rest xml:id="r2fdk2o" dur="4" dur.ppq="3"/>
+                           <rest xml:id="r2fdk3o" dur="8" dur.ppq="3"/>
                            <note xml:id="n1du4af1" accid.ges="s" dur="4" dur.ppq="2" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="v14x4whs" n="1">
                                  <syl xml:id="s1ym79c3" con="d" wordpos="i">Re</syl>
@@ -3503,8 +3500,10 @@
                                  <syl xml:id="s1betdnh" con="s" wordpos="t">es,</syl>
                               </verse>
                            </note>
-                           <rest xml:id="r12jzu08" dots="1" dur="4" dur.ppq="3"/>
-                           <rest xml:id="rf36bwf" dots="1" dur="4" dur.ppq="3"/>
+                           <rest xml:id="r12jzu08" dur="4" dur.ppq="3"/>
+                           <rest xml:id="rf36bw09" dur="8" dur.ppq="3"/>
+                           <rest xml:id="r12jzu10" dur="4" dur.ppq="3"/>
+                           <rest xml:id="rf36bs11" dur="8" dur.ppq="3"/>
                            <note xml:id="n401c9a" dur="4" dur.ppq="2" oct="4" pname="g" stem.dir="up">
                               <accid xml:id="a15hl56c" accid="s"/>
                               <verse xml:id="v1v5bef2" n="1">
@@ -3909,6 +3908,7 @@
                      <hairpin xml:id="h16hl1dz" form="cres" place="above" staff="1" tstamp="3" tstamp2="0m+13" vgrp="1"/>
                      <tie xml:id="t1xfi623" endid="#n4b14si" startid="#n1ad2bdz"/>
                      <tie xml:id="t6txqn2" endid="#nrmu66k" startid="#nppxm4s"/>
+                     <breath xml:id="b39bqw7" staff="1" tstamp="9.5"/>
                   </measure>
                   <measure xml:id="m1vvvp47" facs="#zone_01JPWG825ESYP0DHZGDATRXHYG" n="34">
                      <staff xml:id="saj5uvh" n="1">
