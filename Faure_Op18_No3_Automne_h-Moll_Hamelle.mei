@@ -23,7 +23,7 @@
                <name xml:id="nr5xo53">Verovio</name>
                <p xml:id="pou0w4v">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="aw0wsvd1" enddate="2025-03-25T17:30:50" startdate="2025-03-22T08:17:55" version="1.2.3">
+            <application xml:id="aw0wsvd1" enddate="2025-03-25T17:33:30" startdate="2025-03-22T08:17:55" version="1.2.3">
                <name xml:id="nabkhoa">mei-friend</name>
                <p xml:id="pltbwdm2">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -4221,16 +4221,13 @@
                            <rest xml:id="r1yo9ypd" dur="8" dur.ppq="1"/>
                         </layer>
                      </staff>
-                     <dir xml:id="d1xgox6k" place="below" staff="2" tstamp="1" vgrp="735">
-                        <rend xml:id="rfncquf" fontstyle="italic" fontweight="bold">sempre </rend>
-                     </dir>
                      <slur xml:id="s146f4o1" curvedir="above" endid="#n1cd4hgf" startid="#nx96h2x"/>
-                     <dynam xml:id="djo6t6n" place="below" staff="2" tstamp="3" val="100" vgrp="515">f</dynam>
+                     <dynam xml:id="djo6t6n" place="below" staff="2" tstamp="1" val="100" vgrp="515">sempre f</dynam>
                      <tie xml:id="t1be4bje" endid="#nd1zrmd" startid="#n1cd4hgf"/>
                      <pedal xml:id="p1uafki6" dir="down" place="below" staff="3" tstamp="1" vgrp="140"/>
                      <pedal xml:id="pfm0d41" dir="up" place="below" staff="3" tstamp="5.9" vgrp="97"/>
-                     <pedal xml:id="p1j31ewc" dir="down" place="below" staff="3" tstamp="7" vgrp="97"/>
-                     <pedal xml:id="pdnydk2" dir="up" place="below" staff="3" tstamp="9.9" vgrp="106"/>
+                     <pedal xml:id="p1j31ewc" dir="down" place="below" staff="3" tstamp="7" vgrp="1"/>
+                     <pedal xml:id="pdnydk2" dir="up" place="below" staff="3" tstamp="9.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="m17brfb4" facs="#zone_01JPWG825EVN35EEMWF0BRB1RR" n="37">
                      <staff xml:id="sxicxw5" n="1">
@@ -4244,10 +4241,9 @@
                               <artic xml:id="az18rqu" artic="acc"/>
                            </note>
                            <note xml:id="ncog24q" dur="8" dur.ppq="1" oct="3" pname="b" stem.dir="up">
-                              <artic xml:id="a1bt9q0t" artic="acc"/>
+                              <artic xml:id="a1bt9q0t" artic="acc" place="above"/>
                            </note>
                            <note xml:id="n1ggo4es" dur="4" dur.ppq="2" oct="3" pname="b" stem.dir="up"/>
-                           <clef xml:id="cd7pim8" line="4" shape="F"/>
                            <note xml:id="n141xl52" dur="8" dur.ppq="1" oct="3" pname="b" stem.dir="up"/>
                            <note xml:id="n1f0dbte" dots="1" dur="2" dur.ppq="6" oct="3" pname="a" stem.dir="down">
                               <accid xml:id="a1jxqqzx" accid="s"/>
@@ -4313,9 +4309,9 @@
                      <slur xml:id="s1k4slrt" curvedir="above" endid="#ncog24q" startid="#n2gpg41"/>
                      <tie xml:id="t1ygvund" endid="#n1ggo4es" startid="#ncog24q"/>
                      <pedal xml:id="pthegdf" dir="down" place="below" staff="3" tstamp="1" vgrp="100"/>
-                     <pedal xml:id="p16aybr8" dir="up" place="below" staff="3" tstamp="5.9" vgrp="80"/>
-                     <pedal xml:id="pt7rwjp" dir="down" place="below" staff="3" tstamp="7" vgrp="80"/>
-                     <pedal xml:id="p2tl5bt" dir="up" place="below" staff="3" tstamp="10.9" vgrp="80"/>
+                     <pedal xml:id="p16aybr8" dir="up" place="below" staff="3" tstamp="5.9" vgrp="2"/>
+                     <pedal xml:id="pt7rwjp" dir="down" place="below" staff="3" tstamp="7" vgrp="2"/>
+                     <pedal xml:id="p2tl5bt" dir="up" place="below" staff="3" tstamp="10.9" vgrp="2"/>
                   </measure>
                   <measure xml:id="m18eypei" facs="#zone_01JPWG825E3B3Y5FMHANGNCTPR" n="38">
                      <staff xml:id="sft8ich" n="1">
@@ -4326,9 +4322,9 @@
                      <staff xml:id="simk2vv" n="2">
                         <layer xml:id="l1hm0hy7" n="1">
                            <note xml:id="n1st4b12" dots="1" dur="4" dur.ppq="3" oct="4" pname="g" stem.dir="up">
-                              <artic xml:id="ac7ruqx" artic="acc"/>
+                              <artic xml:id="ac7ruqx" artic="acc" place="above"/>
                            </note>
-                           <note xml:id="n1eyqxgl" dots="1" dur="2" dur.ppq="6" oct="3" pname="g" stem.dir="down"/>
+                           <note xml:id="n1eyqxgl" dots="1" dur="2" dur.ppq="6" oct="3" pname="g" staff="3" stem.dir="up"/>
                            <space xml:id="sdqzget" dur="4" dur.ppq="2"/>
                            <space xml:id="s1fhrvuw" dur="8" dur.ppq="1"/>
                         </layer>
@@ -4358,9 +4354,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <dynam xml:id="dwy2s3i" place="below" staff="2" tstamp="1" vgrp="495">
-                        <rend xml:id="rx07qrn" fontstyle="italic" fontweight="bold">dimin.</rend>
-                     </dynam>
+                     <dynam xml:id="dwy2s3i" place="between" staff="2 3" tstamp="1" vgrp="495">dimin.</dynam>
                      <slur xml:id="s18r5xem" curvedir="above" endid="#n1eyqxgl" startid="#n1st4b12"/>
                      <tie xml:id="tyxzpnu" curvedir="above" endid="#n1kyd2vu" startid="#n1koz2hq"/>
                   </measure>
