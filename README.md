@@ -1,4 +1,4 @@
-# Faure_Automne, _Automne_, Op. 18 No. 3 (b minor, original) 
+# Gabriel Fauré, _Automne_, Op. 18 No. 3 (b minor, original) 
 
 This repository contains an [MEI](https://music-encoding.org) encoding of  **Automne (Opus 18 No 3)** by Gabriel Fauré, 
 following [Paris: J. Hamelle, n.d.(1880). Plate J. 1667 H.](https://imslp.org/wiki/Special:ReverseLookup/24112).
