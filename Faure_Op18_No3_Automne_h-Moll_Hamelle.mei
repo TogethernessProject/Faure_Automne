@@ -656,7 +656,7 @@
                      <staff xml:id="s8rhqjo" n="1">
                         <layer xml:id="lcldg6t" n="1">
                            <note xml:id="nhrexbi" accid.ges="s" dots="1" dur="2" dur.ppq="6" oct="4" pname="f" stem.dir="up"/>
-                           <rest xml:id="rsppi0f" dots="0" dur="2" dur.ppq="6"/>
+                           <rest xml:id="rsppi0f" dots="1" dur="2" dur.ppq="6"/>
                         </layer>
                      </staff>
                      <staff xml:id="s1et65c1" n="2">
